@@ -7,10 +7,6 @@
 
 ![Screenshot](https://example.com/Screenshot%202024-11-29%20194430.png) 
 
-
-![Screenshot 2](images/Screenshot%202024-11-29%20194601.png)
-
-
 # Features:
 ### Real-time license plate number recognition using OCR.
 ### High accuracy in text recognition from images .

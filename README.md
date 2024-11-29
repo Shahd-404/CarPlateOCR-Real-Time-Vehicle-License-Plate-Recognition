@@ -5,6 +5,10 @@
 # Project Description:
 ## CarPlateOCR is a project that utilizes Optical Character Recognition (OCR) techniques to extract and read vehicle license plate numbers from images and videos. The project leverages powerful tools like Tesseract OCR and OpenCV to analyze images and extract text with high accuracy. The system is capable of handling various lighting conditions and angles, making it reliable for real-time vehicle license plate recognition.
 
+![Screenshot](https://example.com/Screenshot%202024-11-29%20194430.png) 
+![Screenshot 2](images/Screenshot%202024-11-29%20194601.png)
+
+
 # Features:
 ### Real-time license plate number recognition using OCR.
 ### High accuracy in text recognition from images .

@@ -7,9 +7,9 @@
 
 # Features:
 ### Real-time license plate number recognition using OCR.
-### High accuracy in text recognition from images and videos.
+### High accuracy in text recognition from images .
 ### Works under various lighting conditions and different angles.
-### Easy-to-use interface for uploading images or videos.
+### Easy-to-use interface for uploading images.
 ### Can be extended to recognize new types of license plates.
 
 ![Description of Image](./Screenshot%202024-11-29%20185823.png)

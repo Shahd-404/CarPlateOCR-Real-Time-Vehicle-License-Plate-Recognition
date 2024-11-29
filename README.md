@@ -22,3 +22,5 @@
 ### OpenCV: Library for image and video processing.
 ### Pytesseract: Python wrapper for Tesseract.
 ### NumPy: For numerical operations and data handling.
+
+![Screenshot 1](/Screenshot%202024-11-29%20194601.png)
